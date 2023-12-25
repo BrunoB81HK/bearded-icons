@@ -526,4 +526,6 @@ export default {
   mmd: "_f_mermaid",
   bal: "_f_ballerina",
   hash: "_f_hash",
+  repos: "_f_vcstool",
+  rviz: "_f_rviz",
 };

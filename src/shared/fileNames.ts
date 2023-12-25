@@ -753,4 +753,5 @@ export default {
   "todo.txt": "_f_todo",
   ".todo.txt": "_f_todo",
   todo: "_f_todo",
+  ".setup_assistant": "_f_moveit",
 };
