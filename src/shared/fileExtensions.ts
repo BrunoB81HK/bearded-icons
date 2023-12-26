@@ -275,7 +275,6 @@ export default {
   mov: "_f_mov",
   mp3: "_f_audiomp3",
   mp4: "_f_mp4",
-  msg: "_f_outlook",
   mst: "_f_mustache",
   mum: "_f_matlab",
   mustache: "_f_mustache",
@@ -528,4 +527,8 @@ export default {
   hash: "_f_hash",
   repos: "_f_vcstool",
   rviz: "_f_rviz",
+  action: "_f_ros_action",
+  msg: "_f_ros_msg",
+  srv: "_f_ros_srv",
+  "launch.py": "_f_ros_launch",
 };
