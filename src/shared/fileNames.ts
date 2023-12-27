@@ -754,4 +754,5 @@ export default {
   ".todo.txt": "_f_todo",
   todo: "_f_todo",
   ".setup_assistant": "_f_moveit",
+  "package.xml": "_f_ros_package",
 };
